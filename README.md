@@ -32,7 +32,7 @@
     Just Don't mind me and do your think.</i>
   </p>
 
-<br />
+<br><br>
   <!-- TECH STACK: original icons retained -->
   <h3 align="center">⚡ Tech Stack</h3>
 
@@ -48,6 +48,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="VS Code" />
   </div>
 
+<br>
   <!-- SOCIALS: all four original icons retained -->
   <h3 align="center">🌐 Connect With Me</h3>
 
@@ -113,8 +114,6 @@
     />
   </picture>
 </div>
-
-<br>
 
 <br clear="both" />
 
