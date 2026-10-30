@@ -20,11 +20,6 @@
     alt="Animated character"
   />
 
-
-  <div align="center">
-    <p>━━━━━━━━━━ ✦ ━━━━━━━━━━</p>
-  </div>
-
   <div align="left">
     <img
       src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=18&amp;pause=1000&amp;color=D3AF37&amp;center=false&amp;vCenter=true&amp;width=480&amp;lines=iamBuZzy;Cybersecurity+%26+CTF+%26+Networking;Python,+C%2B%2B,+Kali+Linux"
@@ -37,6 +32,7 @@
     Just Don't mind me and do your think.</i>
   </p>
 
+<br />
   <!-- TECH STACK: original icons retained -->
   <h3 align="center">⚡ Tech Stack</h3>
 
@@ -53,9 +49,9 @@
   </div>
 
   <!-- SOCIALS: all four original icons retained -->
-  <h3 align="left">🌐 Connect With Me</h3>
+  <h3 align="center">🌐 Connect With Me</h3>
 
-  <div align="left">
+  <div align="center">
     <a href="https://linkedin.com/in/sebastianus-ade-primandaru-50bbab315/" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
     </a>
