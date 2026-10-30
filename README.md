@@ -10,7 +10,6 @@
 
 ###
 
-<table>
   <tr>
     <td valign="middle" width="60%">
       <h1 align="left">Hello Chat, iamBuZzy</h1>
@@ -34,7 +33,6 @@
       />
     </td>
   </tr>
-</table>
 
 ###
 
@@ -71,13 +69,11 @@
 
 ###
 
-<div align="center">
-  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph.svg?game=galaga">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  </picture>
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 ###
 
