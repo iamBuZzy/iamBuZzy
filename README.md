@@ -20,7 +20,10 @@
     alt="Animated character"
   />
 
-  <h1 align="left">Hello Chat, iamBuZzy</h1>
+
+  <div align="center">
+    <p>━━━━━━━━━━ ✦ ━━━━━━━━━━</p>
+  </div>
 
   <div align="left">
     <img
@@ -30,14 +33,14 @@
   </div>
 
   <p align="left">
-    <i>Passionate about cybersecurity, CTF challenges, and building useful software.<br />
-    I love exploring Python, C++, Linux, and everything related to problem solving.</i>
+    <i>I’m quite forgetful, so I created this GitHub repository as a reminder to help me keep track of things.<br />
+    Just Don't mind me and do your think.</i>
   </p>
 
   <!-- TECH STACK: original icons retained -->
-  <h3 align="left">⚡ Tech Stack</h3>
+  <h3 align="center">⚡ Tech Stack</h3>
 
-  <div align="left">
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
@@ -73,74 +76,31 @@
   <p>━━━━━━━━━━ ✦ ━━━━━━━━━━</p>
 </div>
 
-<!-- NEW: GITHUB STATS -->
-<h2 align="center">✦ GitHub Overview ✦</h2>
-
-<div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=iamBuZzy&amp;show_icons=true&amp;bg_color=0D1117&amp;title_color=D3AF37&amp;text_color=E5E7EB&amp;icon_color=D3AF37&amp;border_color=8B732E&amp;border_radius=12"
-    alt="iamBuZzy GitHub statistics"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamBuZzy&amp;layout=compact&amp;bg_color=0D1117&amp;title_color=D3AF37&amp;text_color=E5E7EB&amp;border_color=8B732E&amp;border_radius=12"
-    alt="iamBuZzy most used repository languages"
-  />
-</div>
-
-<br />
-
-<!-- NEW: FEATURED REPOSITORIES (both public repos verified) -->
-<h2 align="center">✦ Featured Repositories ✦</h2>
-
-<div align="center">
-  <a href="https://github.com/iamBuZzy/ctf-write-up">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=iamBuZzy&amp;repo=ctf-write-up&amp;bg_color=0D1117&amp;title_color=D3AF37&amp;text_color=E5E7EB&amp;icon_color=D3AF37&amp;border_color=8B732E&amp;border_radius=12"
-      alt="CTF write-ups repository"
-    />
-  </a>
-  <a href="https://github.com/iamBuZzy/ASD-ASD-ASD">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=iamBuZzy&amp;repo=ASD-ASD-ASD&amp;bg_color=0D1117&amp;title_color=D3AF37&amp;text_color=E5E7EB&amp;icon_color=D3AF37&amp;border_color=8B732E&amp;border_radius=12"
-      alt="ASD algorithms repository"
-    />
-  </a>
-</div>
-
 <br />
 
 <!-- NEW: CYBERSECURITY JOURNEY -->
-<h2 align="center">✦ Cybersecurity Journey ✦</h2>
+<h2 align="center">✦ Cybersecurity ✦</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=D3AF37" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/CTF_Player-0D1117?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=D3AF37" alt="CTF Player" />
-  <img src="https://img.shields.io/badge/Linux_Enthusiast-0D1117?style=for-the-badge&amp;logo=linux&amp;logoColor=D3AF37" alt="Linux Enthusiast" />
+  <img src="https://img.shields.io/badge/Linux_Enthusiast-0D1117?style=for-the-badge&amp;logo=linux&amp;logoColor=D3AF37" alt="Linux" />
 </div>
 
-<p align="center"><i>“Explore. Exploit. Understand. Improve.”</i></p>
+<p align="center"><i>“I Can Only Ask Why”</i></p>
 
 <br />
 
 <!-- ARCADE: Galaga restored; needs GitHub Actions workflow to publish output SVGs -->
-<h2 align="center">✦ Arcade Contribution Graph ✦</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/output/galaga-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/output/galaga-contribution-graph.svg" />
-    <img width="100%" alt="Galaga contribution graph" src="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/output/galaga-contribution-graph.svg" />
-  </picture>
-</div>
-
 <br />
 
-<!-- NEW: PROFILE VIEWS -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamBuZzy&amp;label=PROFILE+VIEWS&amp;color=D3AF37&amp;style=flat-square" alt="Profile views" />
-</div>
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 <br clear="both" />
 
