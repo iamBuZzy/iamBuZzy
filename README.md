@@ -10,6 +10,9 @@
 -->
 
 <div align="center">
+  <p align="center">
+    <img src="https://github.com/USERNAME_KAMU.png" width="160" style="border-radius:50%;" />
+  </p>
   <a href="https://github.com/YOUR_USERNAME">
     <img src="./assets/profile-scan.gif" width="100%" alt="Animated cyberpunk profile scan for Sebastianus Primandaru" />
   </a>
