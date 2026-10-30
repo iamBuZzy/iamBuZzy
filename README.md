@@ -1,127 +1,90 @@
-<!--
-  PROFILE SCAN / GITHUB README
-  Theme: CYBER TERMINAL  |  Neon Cyan  |  Minimal HUD
-
-  QUICK SETUP
-  1. Replace YOUR_USERNAME and YOUR_EMAIL@example.com below.
-  2. Upload this README.md together with the assets/ folder.
-  3. Create a PUBLIC repository named exactly like your GitHub username.
-  4. Read SETUP.md for full instructions.
--->
+<br clear="both">
 
 <div align="center">
-  <p align="center">
-    <img src="https://github.com/USERNAME_KAMU.png" width="160" style="border-radius:50%;" />
-  </p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="./assets/profile-scan.gif" width="100%" alt="Animated cyberpunk profile scan for Sebastianus Primandaru" />
-  </a>
-  <br />
-  <samp>◈ SYSTEM ONLINE &nbsp;·&nbsp; BUILDING IN PUBLIC &nbsp;·&nbsp; ALWAYS LEARNING ◈</samp>
-  <br /><br />
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">Repositories</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://github.com/YOUR_USERNAME?tab=stars">Starred Projects</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=iamBuZzy&fontSize=60&fontColor=D3AF37&animation=fadeIn&fontAlign=50&fontAlignY=42&desc=Cybersecurity%20%7C%20CTF%20%7C%20Networking&descSize=18&descAlign=50&descAlignY=65&color=0:0B1020,50:111827,100:D3AF37"
+    alt="header"
+  />
 </div>
 
-<br />
-
-### `01 / WHOAMI`
-
-> **I build with curiosity, debug with patience, and learn by exploring how things work beneath the surface.**
-
-I'm **Sebastianus Primandaru**, an Informatics student interested in turning complex problems into thoughtful, usable software. My playground moves between **software engineering**, **cybersecurity / CTF**, and **interface design**.
-
-```text
-┌──(visitor㉿profile)-[~]
-└─$ cat identity.log
-
-  ROLE       : Informatics Student
-  FOCUS      : Software Engineering / Cybersecurity
-  SIDE QUEST : CTF, OSINT, Digital Forensics, UI/UX
-  MINDSET    : Build. Break down. Understand. Improve.
-  STATUS     : Learning in public  [● ACTIVE]
-```
-
-### `02 / THE TOOLKIT`
-
-| Layer | Things I work with |
-| :--- | :--- |
-| **Languages** | `Python` · `Java` · `C` · `PHP` · `JavaScript` · `SQL` |
-| **Web & UI** | `HTML` · `CSS` · `Flask` · `Responsive Design` |
-| **Data & Apps** | `MySQL` · `Java Swing` · `REST API` · `MVC` |
-| **Security & Tools** | `Linux` · `Git` · `Wireshark` · `OSINT` · `Digital Forensics` |
-| **Exploring next** | `Machine Learning` · `Web Security` · `Creative Frontend` |
-
-### `03 / SELECTED BUILDS`
+###
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>◈ Reservation Platform</h3>
-      <code>Flask · Python · HTML/CSS/JS</code>
-      <p>Authentication, booking flows, account management, and an admin dashboard for reservation operations.</p>
+    <td valign="middle" width="60%">
+      <h1 align="left">Hello Chat, iamBuZzy</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=D3AF37&center=true&vCenter=true&width=500&lines=iamBuZzy;Cybersecurity+%26+CTF+%26+Networking;Python,+C%2B%2B,+Kali%20Linux+" alt="Typing SVG" />
+</div>
+
+<p align="left">
+  <i>
+    Passionate about cybersecurity, CTF challenges, and building useful software.
+    I love exploring Python, C++, Linux, and everything related to problem solving.
+  </i>
+</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>◈ Library Management System</h3>
-      <code>Java Swing · MVC · SQL</code>
-      <p>A desktop library application with member/admin roles, book management, borrowing, and returns.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>◈ Marketing Management</h3>
-      <code>Web Application · Multi-role Design</code>
-      <p>A role-based workflow for assigning marketing activities, reporting progress, and reviewing operations.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>◈ CTF & Security Lab</h3>
-      <code>OSINT · Forensics · Web Security</code>
-      <p>Learning through investigation, packet analysis, file artifacts, and hands-on security puzzles.</p>
+    <td align="right" valign="middle" width="40%">
+      <img
+        height="180"
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZhZzZtZWtvb3ZsZTRkYzhmd3drdjl3bnR2azd3cDY2bXdyejFrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MmUGJI3JQ1rWIsDtkV/giphy.gif"
+        alt="coding gif"
+      />
     </td>
   </tr>
 </table>
 
-<sub>Projects above describe areas of work and exploration; add links to public repositories once published.</sub>
+###
 
-<p align="right">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories"><b>EXPLORE REPOSITORIES →</b></a>
-</p>
-
-### `04 / CURRENT MISSION`
-
-```text
-[████████████░░░░]  learning new things
-[██████████████░░]  building better software
-[████████████████]  staying curious
-
-> next objective: ship something useful.
-> _
-```
-
-<details>
-  <summary><b>▸ Open a hidden terminal</b></summary>
-  <br />
-
-  ```console
-  $ ./developer.sh --philosophy
-
-  [OK] Read the docs.
-  [OK] Test the assumptions.
-  [OK] Keep the UI human.
-  [OK] Never stop learning.
-
-  ACCESS GRANTED: curiosity is the only requirement.
-  ```
-</details>
-
-<br />
+<h2 align="center"> Tech Stack </h2>
 
 <div align="center">
-  <samp>┌────────────────────────────────────────────┐</samp><br />
-  <samp>NO MAGIC. JUST CURIOSITY, CODE & CONSISTENCY.</samp><br />
-  <samp>└────────────────────────────────────────────┘</samp><br /><br />
-  <sub>Designed like a terminal · Built to keep evolving</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python logo" />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="50" alt="git logo" />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="50" alt="vscode logo" />
+</div>
+
+###
+
+<h2 align="center"> Connect With Me </h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/sebastianus-ade-primandaru-50bbab315/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/Ibass_bas" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  <a href="https://www.instagram.com/ibass_bas/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph.svg?game=galaga">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  </picture>
+</div>
+
+###
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&fontSize=70&fontColor=FFFFFF&color=0:D3AF37,50:111827,100:0B1020"
+    alt="footer"
+  />
 </div>
