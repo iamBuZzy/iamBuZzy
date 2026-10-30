@@ -92,11 +92,29 @@
 
 <br clear="both">
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+
+<!-- GALAGA CONTRIBUTION GRAPH -->
+<h2 align="center">✦ Arcade Contribution Graph ✦</h2>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph.svg"
+    />
+    <img
+      alt="Galaga Contribution Graph"
+      src="https://raw.githubusercontent.com/iamBuZzy/iamBuZzy/pacman-output/galaga-contribution-graph.svg"
+      width="100%"
+    />
+  </picture>
+</div>
+
+<br>
 
 <br clear="both" />
 
